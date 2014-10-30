@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "browserify-istanbul": "^0.1.2",
+    "coffee-script": "^1.8.0",
+    "coffeeify": "^0.7.0",
+    "gulp": "^3.8.9",
+    "gulp-coffee": "^2.2.0",
+    "karma": "^0.12.24",
+    "karma-bro": "^0.9.0",
+    "karma-chrome-launcher": "^0.1.5",
+    "karma-coverage": "^0.2.6",
+    "karma-jasmine": "^0.1.5",
+    "karma-phantomjs-launcher": "^0.1.4"
+  }
+}
